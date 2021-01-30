@@ -1,0 +1,52 @@
+.b {
+    color: orange;
+}
+
+.hello {
+    color:orange;
+}
+
+.button {
+    
+    
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    color: black;
+    background-color: white;
+
+    box-shadow: inset 4px 4px 6px rgba(255, 255, 255, .6),
+                inset -4px -4px 6px rgba(0, 0, 0, .6);
+}
+
+.button:hover {
+    background-color: rgba(255, 200, 200);
+}
+
+.button:active {
+    background-color: red;
+    box-shadow: inset -4px -4px 6px rgba(255, 255, 255, .6),
+                inset 4px 4px 6px rgba(0, 0, 0, .6);
+    
+}
+
+.main {
+    border:solid;
+    width:fit-content; 
+    width:-webkit-fit-content; 
+    width:-moz-fit-content;
+    padding: 2px;
+    border-radius: 1px;
+    border-color: rgba(0, 0, 255);
+}
+
+#output {
+    font-size: 70px;
+    width: 334px;
+    height: 80px;
+    text-align:right;
+}
+
+
+
+
