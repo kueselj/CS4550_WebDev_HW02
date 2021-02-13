@@ -1,0 +1,38 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+James Kuesel
+
+
+2. What hostname did you deploy your app to?
+hw04.jamiekuesel.com
+
+3. What's the URL of your git for this assignment?
+https://github.com/kueselj/CS4550_WebDev_HW02.git
+
+4. How much of the functionality did you complete?
+Everything but the arithmetic.
+
+5. Did you successfully deploy? If not, what's broken?
+No, It can’t find the production folder. I’m pretty confused. Will hopefully get up soon.
+
+6. How comfortable do you feel with Elixir now?
+Kinda comfortable
+
+7. Which parts of this assignment did you have trouble with, if any?
+
+Arithmetic expression is pretty long and tedious. Would have preferred slightly more simpler, and perhaps more fun example. I can do it, but just didn’t have the time.
+
+Also the deploy was not as strait forward as I thought it would. The instructions looked clear but it didn’t work.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
